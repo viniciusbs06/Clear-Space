@@ -9,7 +9,7 @@ Vinícius Bernardi Sant'Ana: Front-end + desing + analista
 Luan Fernandes Da Silva: Banco de Dados
 
 # Links
-Sprint 1 (Parcial) \n
+Sprint 1 (Parcial) <br>
 https://docs.google.com/spreadsheets/d/12V4GN4cUz8yyqX4Xnle9iTjXCsKeq625dAWcHrxlSa8/edit?usp=sharing
 https://docs.google.com/document/d/1AYgvl47JNWB99ZoGaq5CfaBvfCuL6UGqTqc5rXoqGfo/edit?tab=t.0
 Sprint 1 (Final)                                                                                                                                                                                                                  
