@@ -19,3 +19,6 @@ https://docs.google.com/document/d/1p4EHUCLwvh0YQTxV3XUdxpeIWMddoo1tUdl_ivDlh4c/
 <br>
 Sprint 2 (Parcial) 
 <br>
+Modelo Canva (Desing)
+<br>
+https://canva.link/mul804ifyyt2vaa
