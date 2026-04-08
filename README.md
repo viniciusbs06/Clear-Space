@@ -16,3 +16,6 @@ https://docs.google.com/document/d/1AYgvl47JNWB99ZoGaq5CfaBvfCuL6UGqTqc5rXoqGfo/
 Sprint 1 (Final) 
 <br>
 https://docs.google.com/document/d/1p4EHUCLwvh0YQTxV3XUdxpeIWMddoo1tUdl_ivDlh4c/edit?pli=1&tab=t.0#heading=h.biwh1kv518d9
+<br>
+Sprint 2 (Parcial) 
+<br>
