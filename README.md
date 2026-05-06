@@ -31,7 +31,19 @@ https://canva.link/2rqb9nz2uzgbhvo
 <br>
 Sprint 3 (Parcial) 
 <br>
-Modelo Canva (Desing refatorado)
+Modelo Canva (Desing refatorado INICIAL)
+<br>
+https://canva.link/kdrrwqwy1u2lspz
+<br>
+Sprint 3 (Final) 
+<br>
+Modelo Canva (Desing refatorado EM ANDAMENTO)
+<br>
+https://canva.link/kdrrwqwy1u2lspz
+<br>
+Sprint 4 (Parcial) 
+<br>
+Modelo Canva (Desing refatorado FINALIZADO)
 <br>
 https://canva.link/kdrrwqwy1u2lspz
 <br>
