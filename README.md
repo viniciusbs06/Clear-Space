@@ -3,10 +3,10 @@ Criar um site para as faxineiras do senai e  vincular aos horários dos docentes
 consiga identificar os locais disponíveis para executar o serviço e também para o trabalho das faxineiras seja mais eficiênte e organizado.
 
 # Nome dos integrantes do PRISM DEVELOPMENT
-Letícia Salvador Ciscare : Lider + Front-end + desing
-Julio Cesar Pires Miranda dos Santos: full-stack
-Vinícius Bernardi Sant'Ana: Front-end + desing + analista
-Luan Fernandes Da Silva: Banco de Dados
+Letícia Salvador Ciscare : Lider + Front-end + desing <br>
+Julio Cesar Pires Miranda dos Santos: full-stack <br>
+Vinícius Bernardi Sant'Ana: Front-end + desing + analista <br>
+Luan Fernandes Da Silva: Banco de Dados <br>
 
 # Links
 Sprint 1 (Parcial) <br>
