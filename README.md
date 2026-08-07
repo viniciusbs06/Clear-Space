@@ -5,7 +5,7 @@ consiga identificar os locais disponíveis para executar o serviço e também pa
 # Nome dos integrantes do PRISM DEVELOPMENT
 Letícia Salvador Ciscare : lider + front-end + design <br>
 Julio Cesar Pires Miranda dos Santos: full-stack <br>
-Vinícius Bernardi Sant'Ana: front-end + design + analista <br>
+Vinícius Bernardi Sant'Ana: front-end + design + analista + banco dde dados <br>
 Luan Fernandes Da Silva: banco de dados <br>
 
 # Links
