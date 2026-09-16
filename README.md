@@ -17,7 +17,6 @@ Desenvolver uma aplicação web interativa que:
 * **Otimize a rotina da limpeza:** Indique em tempo real os locais disponíveis para o trabalho das faxineiras.
 * **Aumente a eficiência operacional:** Evite interrupções desnecessárias em salas ocupadas e melhore a organização da equipe.
 * **Ofereça controle visual:** Facilite o acompanhamento das tarefas e do status de conservação de cada ambiente do SENAI.
-
 ---
 
 ## 👥 Equipe — PRISM DEVELOPMENT
@@ -34,28 +33,43 @@ Desenvolver uma aplicação web interativa que:
 ## 🛠️ Implementação Técnica
 
 **Tecnologias Utilizadas:**
-* **Front-End:** HTML5 e CSS3 para estrutura, layout e responsividade
-* **Back-End:** Java para a lógica de negócio e integração
-* **Banco de Dados:** MySQL para modelagem e armazenamento dos dados de salas, professores e horários
+* **Front-End:** HTML5, CSS3 (`style.css`) e JavaScript para a interface web interativa
+* **Back-End:** Java (Spring Boot / API Restful) com arquitetura MVC/DTO
+* **Banco de Dados:** MySQL (`clearSpaces`) para persitência de dados via JPA/Hibernate
 
 **Recursos Implementados:**
-* Consulta de disponibilidade de salas em tempo real
-* Mapeamento dos horários docentes por turno e bloco
-* Painel com indicação visual de salas disponíveis e ocupadas
-* Interface simples e intuitiva adaptada para o uso da equipe de limpeza
+* Gestão completa de ambientes, cadastros e cronogramas de limpeza
+* Controle de atribuições, tarefas e checklist operacional dos funcionários
+* Registro e acompanhamento do histórico de ocorrências pelo gerente
+* Autenticação e gestão de acessos para perfis de gerência, operação e docentes
+* Consulta e mapeamento de disponibilidade de salas por turno/período
 
 ---
 
 ## 📦 Estrutura do Projeto
 
 ```text
-clear_spaces/
-├── src/
-│   ├── main/
-│   │   ├── java/       # Classes e controllers em Java
-│   │   └── webapp/     # Estrutura web (HTML, CSS, recursos)
-│   │       ├── css/    # Estilização e design
-│   │       └── index.html
-├── database/           # Scripts de criação e população do MySQL
-├── documentacao/       # Links das Sprints, relatórios e diagramas
-└── README.md           # Documentação do projeto
+clearSpaces/
+├── FRONTEND/
+│   ├── HTML/
+│   │   ├── index.html
+│   │   ├── cadastros.html
+│   │   ├── gerente.html
+│   │   ├── operacional.html
+│   │   ├── professor.html
+│   │   └── ... (formulários, listas e checklists)
+│   ├── JS/
+│   │   ├── common.js
+│   │   ├── login.js
+│   │   └── ... (scripts de controle da interface)
+│   └── style.css
+│
+├── BACKEND (br.com.api.clearSpaces)/
+│   ├── controller/      # Endpoints da API REST
+│   ├── dto/             # Objetos de transferência de dados
+│   ├── entity/          # Mapeamento das tabelas do banco
+│   ├── repository/      # Interfaces de acesso ao MySQL
+│   └── service/         # Regras de negócio da aplicação
+│
+└── DATABASE/
+    └── scripts.sql      # Scripts de criação e população no MySQL Workbench
