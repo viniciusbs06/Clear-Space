@@ -1,5 +1,5 @@
 # Clear Spaces — Gestão de Limpeza SENAI
-
+ 
 Projeto Integrador desenvolvido no curso **Técnico em Desenvolvimento de Sistemas** do SENAI, sob orientação do professor **Wesley**. O **Clear Spaces** é uma solução web desenvolvida para otimizar e organizar a rotina do setor de limpeza através da integração de dados de ocupação de salas e horários dos docentes.
 
 ---
