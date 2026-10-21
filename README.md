@@ -87,8 +87,11 @@ Desenvolver uma aplicação web interativa que:
  **SITE**
  *https://frontclearspaces.vercel.app*
 
- **SITE**
- *https://frontclearspaces.vercel.app*
+ **REPOSITORIO COM O BACKEND**
+ *https://github.com/julio-cpm/backClearSpaces*
+
+ **REPOSITORIO COM O FRONTEND**
+ *https://github.com/julio-cpm/frontClearSpaces*
 ---
 
 ## 📝 Considerações Finais
