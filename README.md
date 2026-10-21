@@ -26,8 +26,8 @@ Desenvolver uma aplicação web interativa que:
 | :--- | :--- |
 | **Letícia Salvador Ciscare** | Líder • Front-End • Design |
 | **Julio Cesar Pires Miranda dos Santos** | Full-Stack |
-| **Vinícius Bernardi Sant'Ana** | Analista • Banco de Dados |
-| **Luan Fernandes Da Silva** | Banco de Dados |
+| **Vinícius Bernardi Sant'Ana** | Analista • Front-End • Banco de Dados |
+| **Luan Fernandes Da Silva** | Banco de Dados • Design |
 
 ---
 
