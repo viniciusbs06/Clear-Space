@@ -84,13 +84,13 @@ Desenvolver uma aplicação web interativa que:
 
 ## LINKS DA APLICAÇÃO 
 
- **SITE** /n
+ **SITE** <br>
  *https://frontclearspaces.vercel.app*
 
- **REPOSITORIO COM O BACKEND** /n
+ **REPOSITORIO COM O BACKEND** <br>
  *https://github.com/julio-cpm/backClearSpaces*
 
- **REPOSITORIO COM O FRONTEND**
+ **REPOSITORIO COM O FRONTEND** <br>
  *https://github.com/julio-cpm/frontClearSpaces*
 
 ---
