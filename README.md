@@ -82,6 +82,12 @@ Desenvolver uma aplicação web interativa que:
 
 ---
 
+## LINK DO SITE 
+
+ *https://frontclearspaces.vercel.app*
+
+---
+
 ## 📝 Considerações Finais
 
 O **Clear Spaces** resolve um desafio operacional real do SENAI, unindo conceitos de desenvolvimento web, APIs REST em Java e modelagem de banco de dados para entregar valor prático à gestão predial da instituição. Desenvolvido no âmbito do curso Técnico em Desenvolvimento de Sistemas, demonstra a aplicação prática de arquitetura em camadas e design de interfaces focados na rotina de trabalho real.
