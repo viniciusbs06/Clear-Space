@@ -14,7 +14,7 @@ Nas instituições de ensino, a higienização das salas precisa acompanhar a di
 
 Desenvolver uma aplicação web interativa que:
 * **Vincule a agenda docente às salas:** Mapeie os horários de aula dos professores para identificar automaticamente os horários vagos nas salas.
-* **Otimize a rotina da limpeza:** Indique em tempo real os locais disponíveis para o trabalho das faxineiras.
+* **Otimize a rotina da limpeza:** Indique em tempo real os locais disponíveis para o trabalho da equipe de limpeza.
 * **Aumente a eficiência operacional:** Evite interrupções desnecessárias em salas ocupadas e melhore a organização da equipe.
 * **Ofereça controle visual:** Facilite o acompanhamento das tarefas e do status de conservação de cada ambiente do SENAI.
 
