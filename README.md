@@ -63,6 +63,7 @@ Desenvolver uma aplicação web interativa que:
   * `scripts.sql` (Scripts de criação e população no MySQL Workbench)
 
 ---
+<img width="1021" height="534" alt="Captura de tela 2026-10-28 084845" src="https://github.com/user-attachments/assets/2a19c8ad-49bb-486d-8ac8-25071e4084eb" />
 
 ## 🔗 Links e Documentações
 
