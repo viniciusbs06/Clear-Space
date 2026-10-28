@@ -63,7 +63,6 @@ Desenvolver uma aplicação web interativa que:
   * `scripts.sql` (Scripts de criação e população no MySQL Workbench)
 
 ---
-<img width="1021" height="534" alt="Captura de tela 2026-10-28 084845" src="https://github.com/user-attachments/assets/2a19c8ad-49bb-486d-8ac8-25071e4084eb" />
 
 ## 🔗 Links e Documentações
 
@@ -75,11 +74,18 @@ Desenvolver uma aplicação web interativa que:
 
 ## 🚀 Como Utilizar
 
-1. **Banco de Dados:** Execute o script SQL no MySQL Workbench para criar a base de dados `clearSpaces` e popular as tabelas iniciais.
-2. **Back-End:** Inicie a API Java para disponibilizar os serviços e endpoints.
-3. **Front-End:** Abra o arquivo `index.html` ou acesse a aplicação web pelo navegador.
-4. Faça o login de acordo com seu perfil (Gerente, Operacional ou Professor).
-5. Acompanhe os locais disponíveis, listas de tarefas, checklists e registre ocorrências em tempo real.
+<img width="1021" height="534" alt="Captura de tela 2026-10-28 084845" src="https://github.com/user-attachments/assets/5f7d0c8c-6c40-43a1-b725-c73946eee49d" />
+<img width="1117" height="805" alt="Captura de tela 2026-10-28 084853" src="https://github.com/user-attachments/assets/4add24b6-b331-4155-ac47-486fe92c94a0" />
+<img width="1919" height="1079" alt="Captura de tela 2026-10-28 085316" src="https://github.com/user-attachments/assets/1e9df305-293d-4a37-9fa0-88ca83d60774" />
+<img width="1919" height="1079" alt="Captura de tela 2026-10-28 085348" src="https://github.com/user-attachments/assets/f9ee67e4-ca48-4d43-af48-e0cab8f0b4ff" />
+<img width="1919" height="1079" alt="Captura de tela 2026-10-28 085437" src="https://github.com/user-attachments/assets/3282f037-9616-4213-bfe2-6958b5802c48" />
+<img width="1919" height="1079" alt="Captura de tela 2026-10-28 090203" src="https://github.com/user-attachments/assets/8ea7ece1-73c8-493b-9d61-abc4fa597d7d" />
+<img width="1919" height="1079" alt="Captura de tela 2026-10-28 090239" src="https://github.com/user-attachments/assets/1d4fdd23-6b7c-4e9f-a795-e64520174e3f" />
+<img width="1919" height="1076" alt="Captura de tela 2026-10-28 090303" src="https://github.com/user-attachments/assets/ac974750-0c6d-4e65-a1e8-f4be752e6b7d" />
+<img width="1918" height="1079" alt="Captura de tela 2026-10-28 090332" src="https://github.com/user-attachments/assets/10c898e0-8aad-4ec1-afeb-d16a9ffbb90f" />
+<img width="1919" height="1079" alt="Captura de tela 2026-10-28 090426" src="https://github.com/user-attachments/assets/d0f00543-2ae6-4c0b-a49f-4de064fe5a56" />
+<img width="1919" height="1079" alt="Captura de tela 2026-10-28 090520" src="https://github.com/user-attachments/assets/1306c7da-d12f-46ea-a592-345014410172" />
+<img width="1919" height="1079" alt="Captura de tela 2026-10-28 090545" src="https://github.com/user-attachments/assets/97807c8d-49b1-4e91-bfe7-2dcfe0f3d84e" />
 
 ---
 
