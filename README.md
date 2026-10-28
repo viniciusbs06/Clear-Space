@@ -66,7 +66,6 @@ Desenvolver uma aplicação web interativa que:
 
 ## 🔗 Links e Documentações
 
-- **Sprint 1 (Parcial):**
   * [Planilha de Planejamento (Google Sheets)](https://docs.google.com/spreadsheets/d/1A0A2PTlN-N85IHBUX_GJvX5Yg3KyZ7VHLuMK3ojl1WM/edit?gid=0#gid=0)
   * [Documento de Acompanhamento (Google Docs)](https://docs.google.com/document/d/1AYgvl47JNWB99ZoGaq5CfaBvfCuL6UGqTqc5rXoqGfo/edit?tab=t.0)
 
