@@ -76,16 +76,26 @@ Desenvolver uma aplicação web interativa que:
 
 <img width="1021" height="534" alt="Captura de tela 2026-10-28 084845" src="https://github.com/user-attachments/assets/5f7d0c8c-6c40-43a1-b725-c73946eee49d" />
 <img width="1117" height="805" alt="Captura de tela 2026-10-28 084853" src="https://github.com/user-attachments/assets/4add24b6-b331-4155-ac47-486fe92c94a0" />
+Extraia a pasta compactada
 <img width="1919" height="1079" alt="Captura de tela 2026-10-28 085316" src="https://github.com/user-attachments/assets/1e9df305-293d-4a37-9fa0-88ca83d60774" />
+Abra o intelliJ e clique no botão para abrir o projeto
 <img width="1919" height="1079" alt="Captura de tela 2026-10-28 085348" src="https://github.com/user-attachments/assets/f9ee67e4-ca48-4d43-af48-e0cab8f0b4ff" />
+Abra a pasta BACKEND (localizada dentro da pasta principal)
 <img width="1919" height="1079" alt="Captura de tela 2026-10-28 085437" src="https://github.com/user-attachments/assets/3282f037-9616-4213-bfe2-6958b5802c48" />
 <img width="1919" height="1079" alt="Captura de tela 2026-10-28 090203" src="https://github.com/user-attachments/assets/8ea7ece1-73c8-493b-9d61-abc4fa597d7d" />
+Faça uma edição no arquivo aplication.properties para o sistema popular o banco de dados
 <img width="1919" height="1079" alt="Captura de tela 2026-10-28 090239" src="https://github.com/user-attachments/assets/1d4fdd23-6b7c-4e9f-a795-e64520174e3f" />
+Abra o arquivo ClearSpacesApplication e execute o projeto
 <img width="1919" height="1076" alt="Captura de tela 2026-10-28 090303" src="https://github.com/user-attachments/assets/ac974750-0c6d-4e65-a1e8-f4be752e6b7d" />
+Altere novamente o arquivo aplication.properties para não popular novamente o banco de dados, caso mantenha o always, toda vez que iniciar o projeto, o spring vai inserir dados repetidos no banco de dados.
 <img width="1918" height="1079" alt="Captura de tela 2026-10-28 090332" src="https://github.com/user-attachments/assets/10c898e0-8aad-4ec1-afeb-d16a9ffbb90f" />
+Abra o VS Code e clique no botão de abrir pasta
 <img width="1919" height="1079" alt="Captura de tela 2026-10-28 090426" src="https://github.com/user-attachments/assets/d0f00543-2ae6-4c0b-a49f-4de064fe5a56" />
+Selecione o FRONTEND dentro da pasta principal
 <img width="1919" height="1079" alt="Captura de tela 2026-10-28 090520" src="https://github.com/user-attachments/assets/1306c7da-d12f-46ea-a592-345014410172" />
+Vá para as dependências do seu VS code e verifique se o Live Server está instalado e habilitado, caso não esteja, instale e o habilite.
 <img width="1919" height="1079" alt="Captura de tela 2026-10-28 090545" src="https://github.com/user-attachments/assets/97807c8d-49b1-4e91-bfe7-2dcfe0f3d84e" />
+Volte para os arquivos da pasta e abra o index.html e clique no botão Go Live! para rodar a nossa aplicação localmente.
 
 ---
 
