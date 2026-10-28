@@ -87,6 +87,10 @@ Desenvolver uma aplicação web interativa que:
  **SITE** <br>
  *https://frontclearspaces.vercel.app*
 
+
+ **LANDING PAGE** <br>
+ *https://landingpageclearspaces.vercel.app*
+
  **REPOSITORIO COM O BACKEND** <br>
  *https://github.com/julio-cpm/backClearSpaces*
 
