@@ -141,6 +141,23 @@ Volte para o navegador de arquivos do VS Code, abra o arquivo `index.html` e cli
 
 <img width="750" alt="Iniciando com Go Live no VS Code" src="https://github.com/user-attachments/assets/97807c8d-49b1-4e91-bfe7-2dcfe0f3d84e" />
 
+## 👥 Perfis Cadastrados Automaticamente
+
+### Funcionários
+| Função | Matrícula | Nome | Período ID | CPF | Senha |
+| :--- | :--- | :--- | :---: | :--- | :--- |
+| Gerente | `FUNC-1234` | João Silva | 1 | `11111111111` | `senha123` |
+| ASG | `FUNC-1235` | Nicolas Pereira | 2 | `11111111112` | `senha123` |
+| Banheirista | `FUNC-1236` | Maria Oliveira | 1 | `11111111114` | `senha123` |
+| ASG | `FUNC-1237` | Carlos Souza | 2 | `11111111115` | `senha123` |
+| Banheirista | `FUNC-1238` | Ana Santos | 3 | `11111111116` | `senha123` |
+
+### Professores
+| Matrícula | Nome | Período ID | CPF | Senha |
+| :--- | :--- | :---: | :--- | :--- |
+| `PROF-1232` | Vinicius Lira | 3 | `11111111113` | `senha123` |
+| `PROF-1233` | Mariana Costa | 1 | `11111111117` | `senha123` |
+| `PROF-1234` | Roberto Alves | 2 | `11111111118` | `senha123` |
 ---
 
 ## 🌐 Links da Aplicação 
